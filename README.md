@@ -1,4 +1,4 @@
-# git-workflow-exercise
+# HW 1 EX 1
 An exercise covering the basic git workflow
 
 ## Instructions
